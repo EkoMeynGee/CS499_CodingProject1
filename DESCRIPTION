@@ -1,0 +1,9 @@
+Package: nearestNeighborsDemo
+Type:  Package
+Title: nearest neighbors demo
+Version: 2019.02.01
+Author: Hao Wang
+Maintainer: Hao Wang <hw328@nau.edu>
+Description: Demo code to show C++ code in an R package.
+License: GPL-3
+RoxygenNote: 6.1.1
